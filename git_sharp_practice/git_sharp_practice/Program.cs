@@ -1,4 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.Write("Hello Worldl");
+﻿using System;
 
-Console.WriteLine("MEMEME");
+class Program
+{
+    static void main()
+    {
+        Console.WriteLine("Hello World");
+        Console.ReadLine();
+    }
+}

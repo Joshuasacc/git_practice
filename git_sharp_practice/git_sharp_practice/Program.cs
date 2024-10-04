@@ -1,3 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hi Joshua Resetting a file");
+Console.Write("Hello Worldl");
+
+Console.WriteLine("MEMEME");

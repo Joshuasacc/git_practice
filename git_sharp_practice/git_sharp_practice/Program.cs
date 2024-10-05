@@ -2,9 +2,10 @@
 
 class Program
 {
-    static void main()
+    static void Main()
     {
-        Console.WriteLine("Hello World");
-        Console.ReadLine();
+        string name = "Joshua";
+        int age = 18;
+       Console.WriteLine($"Hi! {name} and your age is: {age}");
     }
 }

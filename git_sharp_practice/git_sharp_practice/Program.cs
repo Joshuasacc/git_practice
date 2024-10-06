@@ -1,11 +1,14 @@
 ﻿using System;
+class Program {
 
-class Program
-{
-    static void Main()
-    {
-        string name = "Joshua";
-        int age = 18;
-       Console.WriteLine($"Hi! {name} and your age is: {age}");
+    static string IsAdult (int x ) {
+        if (x >= 18) return "You are adult";
+        return "Nah you not";
     }
+    static void Main() {
+        int age = 18;
+        Console.WriteLine  (IsAdult (age));
+        Console.ReadKey(true);
+    }
+    
 }

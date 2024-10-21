@@ -1,8 +1,8 @@
 ﻿using System;
 class Program {
-    static void Main(string[] args) {
-       int num = int.Parse(Console.ReadLine());
-       Console.WriteLine(num * num);
-       Console.ReadLine ();
+    static void Main(string[] args) { // testing for commiting
+        Console.WriteLine("Hello, This is joshua testing my commit history");
+        Console.ReadLine();
+        
     }
 }

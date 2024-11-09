@@ -4,5 +4,10 @@ class Program {
         Console.WriteLine("Hello, This is joshua testing my commit history");
         Console.ReadLine();
         
+        try {
+
+        } catch  (Exception e){
+
+        }
     }
 }

@@ -5,7 +5,7 @@ class Program {
         Console.ReadLine();
         
         try {
-
+            int ;
         } catch  (Exception e){
 
         }
